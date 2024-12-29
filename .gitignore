@@ -5,3 +5,4 @@ venv/
 accesstokens.txt
 config/
 .DS_Store
+notebooks/images/
